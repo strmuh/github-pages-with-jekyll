@@ -1,14 +1,13 @@
 theme: minima
 title: My Projects
 author: Muhammad Stracey
-email: your-email@domain.com
+email: strmuh001@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-
+ I am a huge Machine Learning (ML) and Artificial Intelligence (AI) nerd! 
+ With a background in Mechanical Engineering and more specifically Metallurgy, I have a keen interest
+ in how ML and AI can be used to better understand these fields. With it's complex behaviour and high interconnectivity,
+ material microstructure is an ideal candidate for the application of ML and AI techniques. Using Python with various third-party packages,
+ I have worked on various projects exploring microstructure analysis and predictive modelling.
 # social links
-twitter_username: your-twitter-handle # DO NOT include the @ character, or else the build will fail!
-github_username:  your-github-handle # DO NOT include the @ character, or else the build will fail!
 
 show_excerpts: true # set to false to remove excerpts on the homepage
